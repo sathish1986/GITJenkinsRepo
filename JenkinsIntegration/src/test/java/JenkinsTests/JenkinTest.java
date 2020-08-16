@@ -12,6 +12,8 @@ public class JenkinTest {
 		System.out.println("How are you Mari");
 				System.out.println("How are you Chandra");
 
+				System.out.println("How are you Chandra");
+
 		
 	}
 
